@@ -39,5 +39,6 @@
   },
   "scripts": {
     "build": "webpack --mode production"
-  }
+  },
+  "main": "webpack.config.js"
 }
